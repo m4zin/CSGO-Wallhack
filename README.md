@@ -6,3 +6,5 @@ This is for educational purposes only! This is an external cheat that can get yo
 - The offsets are not updated, hence you should download hazedumper for csgo and change them respectively when needed.
 - You can add more cheats to your liking to the code such as aimbot/triggerbot/radar hacks.
 - Have fun!
+
+The only cheat I have added in the code is glow ESP. Make sure your game is running, Press F1 in-game to activate the ESP.
